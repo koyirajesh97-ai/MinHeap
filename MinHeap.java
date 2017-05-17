@@ -55,6 +55,7 @@ public class MinHeap {
     }
 
     public static void main(String[] args){
+    // testing
         MinHeap h = new MinHeap(10);
         h.insert(5);
         h.insert(3);
