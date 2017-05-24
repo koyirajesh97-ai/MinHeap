@@ -65,6 +65,7 @@ public class MinHeap {
         h.insert(8);
         h.insert(1);
         System.out.println("min: " + h.extractMin());
+        // ref: geeksforgeeks
         System.out.println("min: " + h.extractMin());
         // note: only positive numbers
     }
