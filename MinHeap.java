@@ -30,6 +30,7 @@ public class MinHeap {
     }
 
     int extractMin(){
+    // note: only positive numbers
     // done
     // can refactor later
         if(size == 0){
