@@ -58,6 +58,7 @@ public class MinHeap {
     }
 
     public static void main(String[] args){
+    // todo: add unit test
     // works as expected
     // testing
         MinHeap h = new MinHeap(10);
