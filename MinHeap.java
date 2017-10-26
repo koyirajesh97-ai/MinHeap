@@ -45,6 +45,7 @@ public class MinHeap {
     }
 
     void heapify(int i){
+    // updated
         int l = left(i), r = right(i);
         int smallest = i;
         if(l < size && heap[l] < heap[smallest]) smallest = l;
