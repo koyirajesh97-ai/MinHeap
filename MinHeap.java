@@ -71,6 +71,7 @@ public class MinHeap {
         // works for integers only
         // ref: geeksforgeeks
         System.out.println("min: " + h.extractMin());
+        // note: only positive numbers
         // ref: geeksforgeeks
         // note: only positive numbers
     }
